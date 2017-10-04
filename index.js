@@ -1,3 +1,1 @@
-module.exports = {
-	'ServiceProvider': require('./lib/sp.js').ServiceProvider
-};
+module.exports = require('./lib/sp.js');
